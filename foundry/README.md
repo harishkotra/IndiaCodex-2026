@@ -389,6 +389,18 @@ The deck covers problem, solution, user flow, all platform features, execution e
 <img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08 (1)" src="https://github.com/user-attachments/assets/04cadf2b-c64d-445c-a5d2-49fc6a34adde" />
 <img width="3002" height="2182" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_00_24" src="https://github.com/user-attachments/assets/16f5e8f8-9631-40c6-a003-fdc2d780f598" />
 <img width="3002" height="2858" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_01_10" src="https://github.com/user-attachments/assets/c445b98d-df0c-4cd1-a2ba-2a968fc97494" />
+<img width="2848" height="2164" alt="Image" src="https://github.com/user-attachments/assets/e50c5e71-42b5-4d34-bc17-2393d1f3efb9" />
+<img width="2848" height="2362" alt="Image" src="https://github.com/user-attachments/assets/535342fa-c02d-4210-b9f9-103e31d97942" />
+<img width="2848" height="2164" alt="Image" src="https://github.com/user-attachments/assets/6ec7e04c-582c-4181-832b-26b975665dc7" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/a79024b1-afc6-46bd-bc8a-f00921e2e641" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/34ae4df6-9098-4bfd-bef7-30ca0f8fbe07" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/f951dcc7-90a3-4a0a-8f9d-3ab5b9a0b587" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/b2d059da-7521-4ddc-bf49-d0259e3498cb" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/112c63f2-86ce-45d9-9a2f-06ed52144cb1" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/7a99ad1e-fbe7-4342-abe6-0438f50dc2ac" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/bf1a39b2-9bfe-488c-9b8e-c41d02037df8" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/8fcef59a-08f6-4ba5-8c98-97d25935cfb5" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/507fd4bb-64e2-47a9-a3d2-4ee051400422" />
 
 #### Live Demo
 
