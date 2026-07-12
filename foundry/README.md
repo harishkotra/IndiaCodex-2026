@@ -1,4 +1,4 @@
-<img width="3002" height="2858" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_01_10" src="https://github.com/user-attachments/assets/c445b98d-df0c-4cd1-a2ba-2a968fc97494" /># Foundry
+# Foundry
 
 **Team name:** foundry  
 **India Codex '26 submission** — Autonomous Software Companies on Cardano
@@ -388,11 +388,15 @@ The deck covers problem, solution, user flow, all platform features, execution e
 <img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08" src="https://github.com/user-attachments/assets/757b39f4-c96e-4700-8b39-0b34d134a379" />
 <img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08 (1)" src="https://github.com/user-attachments/assets/04cadf2b-c64d-445c-a5d2-49fc6a34adde" />
 <img width="3002" height="2182" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_00_24" src="https://github.com/user-attachments/assets/16f5e8f8-9631-40c6-a003-fdc2d780f598" />
+<img width="3002" height="2858" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_01_10" src="https://github.com/user-attachments/assets/c445b98d-df0c-4cd1-a2ba-2a968fc97494" />
 
+#### Live Demo
+
+[https://foundry-gamma-three.vercel.app/](https://foundry-gamma-three.vercel.app/)
 
 #### YouTube Pitch Video
 
-https://youtu.be/6hji9L5TAM0
+[https://youtu.be/6hji9L5TAM0](https://youtu.be/6hji9L5TAM0)
 
 ---
 
