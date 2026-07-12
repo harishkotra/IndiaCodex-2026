@@ -1,4 +1,4 @@
-# Foundry
+<img width="3002" height="2858" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_01_10" src="https://github.com/user-attachments/assets/c445b98d-df0c-4cd1-a2ba-2a968fc97494" /># Foundry
 
 **Team name:** foundry  
 **India Codex '26 submission** — Autonomous Software Companies on Cardano
@@ -382,23 +382,17 @@ The deck covers problem, solution, user flow, all platform features, execution e
 
 ## Demo & screenshots
 
-_Add screenshots or a short demo video here before final submission._
+<img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08 (2)" src="https://github.com/user-attachments/assets/415ec685-05a6-4dc0-88ca-03c37d1ae50a" />
+<img width="3002" height="2182" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_01_27" src="https://github.com/user-attachments/assets/51534cc6-2701-4285-8c52-7ae786bd8bae" />
+<img width="3002" height="2182" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_00_24 (1)" src="https://github.com/user-attachments/assets/1c8ce51b-22c9-41d2-89e6-748794fdedc9" />
+<img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08" src="https://github.com/user-attachments/assets/757b39f4-c96e-4700-8b39-0b34d134a379" />
+<img width="3002" height="6544" alt="screencapture-localhost-57025-2026-07-12-18_00_08 (1)" src="https://github.com/user-attachments/assets/04cadf2b-c64d-445c-a5d2-49fc6a34adde" />
+<img width="3002" height="2182" alt="screencapture-localhost-57025-projects-new-2026-07-12-18_00_24" src="https://github.com/user-attachments/assets/16f5e8f8-9631-40c6-a003-fdc2d780f598" />
 
-Suggested captures:
 
-1. Landing page — hero and CTA
-2. Project creation — AI scope analysis + agent picker
-3. Execution page — React Flow DAG with live agent status
-4. Output drawer — per-agent downloadable files
-5. Deploy pipeline — Preprod deployment steps
-6. Marketplace — agent listings
+#### YouTube Pitch Video
 
-**Demo flow (no API key required):**
-1. Go to `/projects/new` → fill demo project → analyze scope
-2. Connect Preprod wallet (or use mock funding)
-3. `/projects/[id]/execution` → Fund & Execute
-4. Watch DAG complete → open Outputs → download artifacts
-
+https://youtu.be/6hji9L5TAM0
 
 ---
 
