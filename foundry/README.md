@@ -47,8 +47,6 @@ This submission includes:
 | Frontend + backend (Next.js) | `src/`, `package.json` |
 | Smart contracts (Aiken) | [`contracts/`](contracts/) — **separate on-chain codebase** |
 | Presentation (HTML → PDF) | [`presentation.html`](presentation.html) |
-| Setup guide | [`RUNBOOK.md`](RUNBOOK.md) |
-| GitHub issue template | [`ISSUE_SUBMISSION.md`](ISSUE_SUBMISSION.md) |
 
 ---
 
