@@ -411,6 +411,12 @@ The deck covers problem, solution, user flow, all platform features, execution e
 <img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/e61c22c9-e239-408c-90c5-c13873005d40" />
 <img width="1535" height="1128" alt="Image" src="https://github.com/user-attachments/assets/3caa4694-a9fc-4fc8-8ffe-5386b50458ad" />
 <img width="1237" height="1052" alt="Image" src="https://github.com/user-attachments/assets/5c1e85f4-03f9-440e-b396-9cc37c0c0395" />
+<img width="3116" height="2334" alt="Image" src="https://github.com/user-attachments/assets/62c6219f-e065-4e96-a695-edac26aa789c" />
+<img width="3116" height="2692" alt="Image" src="https://github.com/user-attachments/assets/f6e8131a-cb84-45eb-bd14-93f3b222de12" />
+<img width="3116" height="2572" alt="Image" src="https://github.com/user-attachments/assets/3d620a02-9a91-49cc-aff9-a918cfcc0381" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/a5ec8092-1870-4150-a20c-55092d65f2e8" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/23979840-8b8c-4269-b6a1-edd8b2e2fb2e" />
+<img width="3116" height="2446" alt="Image" src="https://github.com/user-attachments/assets/915c5ea8-1e18-4ff2-958e-06ce11b3634f" />
 
 #### Live Demo
 
